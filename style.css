@@ -1,0 +1,29 @@
+.name {
+    border: 1px gray solid;
+    color: gray;
+    padding: 5px 30px;
+    margin-top: 10px;
+}
+.comment {
+    border: 1px gray solid;
+    color: gray;
+    padding: 40px 30px;
+    margin-top: 10px;
+}
+.submit {
+    color: white;
+    background-color:cornflowerblue;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px gray solid;
+    padding: 10px;
+    width: 15%;
+    margin: 0 auto;
+}
